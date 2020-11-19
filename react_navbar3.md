@@ -65,6 +65,7 @@ yarn add react-bootstrap-icons
 
 https://icons.getbootstrap.com/#usage
 
+Also made a github repository.
 
 
 
